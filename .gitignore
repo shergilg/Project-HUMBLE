@@ -1,0 +1,3 @@
+# Getting rid of dependencies to avoid clutter
+node_modules/
+
